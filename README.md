@@ -1,2 +1,2 @@
 # Proyectos-Cyber-security
-Practicas realizas en el tecnico en Ciber Seguridad impartido en INFOTEP.
+Trabajos practicos; tecnico en Ciber Seguridad impartido | INFOTEP.
